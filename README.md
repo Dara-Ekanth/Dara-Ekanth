@@ -17,7 +17,7 @@ _A young Computer Science student pursuing his Under graduation with technical a
 
 <p align="center"> 
   Visitor Count<br>
-<img src="https://profile-counter.glitch.me/Saketh-Chandra/count.svg" />
+<img src="https://profile-counter.glitch.me/Dara-Ekanth/count.svg" />
 </p>
 
 <!---
