@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dara-Ekanth
 - 👀 I’m interested in Machine Learning, Django, Quantum Computing, Robotics.
 - 🌱 I’m currently learning ROS.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me [here](https://www.linkedin.com/in/dara-ekanth-1b7681179/)
 
 <!---
