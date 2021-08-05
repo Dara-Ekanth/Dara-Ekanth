@@ -14,6 +14,12 @@ _A young Computer Science student pursuing his Under graduation with technical a
 [Python]:https://www.python.org/
 [Machine Learning]:https://machinelearning.org.in/
 [Robotics]:https://en.wikipedia.org/wiki/Robotics#:~:text=Robotics%20is%20an%20interdisciplinary%20field,can%20help%20and%20assist%20humans.
+
+<p align="center"> 
+  Visitor Count<br>
+<img src="https://profile-counter.glitch.me/Saketh-Chandra/count.svg" />
+</p>
+
 <!---
 Dara-Ekanth/Dara-Ekanth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
