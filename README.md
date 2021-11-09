@@ -4,7 +4,21 @@
 
 _A young Computer Science student pursuing his Under graduation with technical areas of interest in **[Machine Learning], [Web Application Development], [Robotics] and [Quantum Computing]. And active member of [IEEE SB, ASEB]**._
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dara-Ekanth&&show_icons=true&include_all_commits=true&count_private=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dara-Ekanth&&show_icons=true&include_all_commits=true&count_private=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+  </p>
+
+<p align="center">
+    <a href="https://git.io/streak-stats">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dara-Ekanth&theme=dark" />
+    </a>
+<p>
+  
+  <p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dara-Ekanth&count_private=true&show_icons=true&theme=merko&hide=purebasic&layout=compact" />
+    </a>
+  </p>
 
 <!-- - 👋 Hi, I’m Dara Ekanth   -->
 - 👀 I’m interested in **[Machine Learning], [Django], [Qiskit], [Robotics]**.  
@@ -21,6 +35,7 @@ _A young Computer Science student pursuing his Under graduation with technical a
 [Quantum Computing]:https://en.wikipedia.org/wiki/Quantum_computing#:~:text=Quantum%20computing%20is%20the%20exploitation,are%20known%20as%20quantum%20computers.&text=The%20study%20of%20quantum%20computing%20is%20a%20subfield%20of%20quantum%20information%20science.
 [IEEE SB, ASEB]:https://ieee-amrita-bangalore.web.app/index.html#commitee
 [Web Application Development]:https://en.wikipedia.org/wiki/Web_application
+  
 
 <p align="center"> 
   Visitor Count<br>
