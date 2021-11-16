@@ -14,11 +14,11 @@ _A young Computer Science student pursuing his Under graduation with technical a
     </a>
 <p>
   
-  <p align="center">
+<!--   <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dara-Ekanth&count_private=true&show_icons=true&theme=merko&hide=purebasic&layout=compact" />
     </a>
-  </p>
+  </p> -->
 
 <!-- - 👋 Hi, I’m Dara Ekanth   -->
 - 👀 I’m interested in **[Machine Learning], [Django], [Qiskit], [Robotics]**.  
