@@ -1,4 +1,4 @@
-# Hi there ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> This is Dara Ekanth 🙋‍♂️ 
+# Hi there ! <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" height="45px" width="40px"> This is Dara Ekanth 🙋‍♂️ 
 
 <!-- ![](https://komarev.com/ghpvc/?username=DaraEkanth&color=green&label=Profile+Visits) -->
 
