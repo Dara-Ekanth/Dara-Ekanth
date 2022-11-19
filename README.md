@@ -2,7 +2,7 @@
 
 <!-- ![](https://komarev.com/ghpvc/?username=DaraEkanth&color=green&label=Profile+Visits) -->
 
-_A young Computer Science student pursuing his Under graduation with technical areas of interest in **[Machine Learning], [Web Application Development], [Robotics] and [Quantum Computing]. And active member of [IEEE SB, ASEB]**._
+_A young Computer Science enthusiast with technical areas of interest in **[Machine Learning], [Web Application Development], [Robotics] and [Quantum Computing]. And active member of [IEEE SB, ASEB]**._
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dara-Ekanth&&show_icons=true&include_all_commits=true&count_private=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
